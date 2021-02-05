@@ -9,3 +9,4 @@ I've also developed several applications in a [class](https://github.com/DanielB
 - Prototyping
 - Retrofit
 - Realm
+- Java
