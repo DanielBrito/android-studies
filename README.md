@@ -12,4 +12,4 @@ These examples cover different aspects of several development tools and concepts
 ## :rocket: Personal Projects
 
 - [HáLugar](https://github.com/HaLugar)
-- [College](https://github.com/DanielBrito/desenvolvimento-mobile)
+- [Homework](https://github.com/DanielBrito/desenvolvimento-mobile) :mortar_board:
