@@ -13,3 +13,7 @@ These examples cover different aspects of several tools and concepts related to 
 
 - [HáLugar](https://github.com/HaLugar)
 - [Homework](https://github.com/DanielBrito/desenvolvimento-mobile) :mortar_board:
+
+## :toolbox: Useful Resources
+
+- [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
