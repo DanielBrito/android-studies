@@ -9,7 +9,7 @@ These experiments cover different tools and concepts related to Android developm
 - RealmDB
 - Java
 
-## :rocket: Personal Projects
+## :rocket: Projects
 
 - [HáLugar](https://github.com/HaLugar)
 - [Homework](https://github.com/DanielBrito/desenvolvimento-mobile) :mortar_board:
