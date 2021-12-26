@@ -14,6 +14,6 @@ These experiments cover different tools and concepts related to Android developm
 - [HáLugar](https://github.com/HaLugar)
 - [Homework](https://github.com/DanielBrito/desenvolvimento-mobile) :mortar_board:
 
-## 🗃️ Resources
+## 🧰 Tools
 
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
