@@ -1,4 +1,4 @@
-# 📱 Learning Android Development
+# 📱 Android Studies
 
 These experiments cover different tools and concepts related to Android development from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
